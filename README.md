@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Yuki.
 
-<!--
-**Yuki-tea/Yuki-tea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⭐ About me
+* Senior CS student in Japan
+* Member of a software engineering lab
+* Aspiring full-stack engineer
+* Love to learn new things
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+* Leading a team development project in my university lab applying agile methodologies like TDD (Test Driven Development) and TiDD (Ticket Driven Development).
+* Learning AWS, WebAssembly, Golang, and Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Research
+* Conducting research in software engineering, with a specific focus on software architecture and Function-as-a-Service (FaaS) environments. (Just getting started 🚀)
+
+### 💻 Tech Stack
+* **Languages:** TypeScript, C, Java
+* **Frontend:** React.js, Next.js
+* **Backend:** Express.js, NestJS
+* **Databases & ORMs:** PostgreSQL, SQLite, Prisma, TypeORM, Sequelize
+* **Infrastructure:** Docker
+* **Tools & Workflow:** Git, Slack, Notion
+
+### 📫 Let's Connect
+* [LinkedIn](link here)
+* [Portfolio](link here)
