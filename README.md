@@ -12,7 +12,7 @@
 * Love to learn new things
 
 ### 🔭 Current Focus
-* Leading a team development project in my university lab applying agile methodologies like TDD (Test Driven Development) and TiDD (Ticket Driven Development).
+* Leading a team development project in my university lab, applying agile methodologies like TDD (Test Driven Development) and TiDD (Ticket Driven Development).
 * Learning AWS, WebAssembly, Golang, and Rust.
 
 ### 🌱 Research
@@ -34,20 +34,20 @@
   </p>
 * **Test:** Jest
   <p>
-    <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Node.js, Express.js" />
+    <img src="https://skillicons.dev/icons?i=jest&theme=dark" alt="Jest" />
   </p>
 * **Databases & ORMs:** PostgreSQL, SQLite, Sequelize, Prisma, TypeORM
   <p>
-    <img src="https://skillicons.dev/icons?i=postgres,sqlite,sequelize,prisma&theme=dark" alt="Node.js, Express.js" />
+    <img src="https://skillicons.dev/icons?i=postgres,sqlite,sequelize,prisma&theme=dark" alt="PostgreSQL, SQLite, Sequelize, Prisma" />
     <img width=50 height=50 src="https://vectorseek.com/wp-content/uploads/2024/07/TypeORM-Logo-Vector-Logo-Vector.svg-.png" alt="TypeORM" />
   </p>
 * **Infrastructure:** Docker
   <p>
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="TypeScript, C, Java" />
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
   </p>
 * **Tools & Workflow:** Git, Github, Notion, Figma
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,notion,figma&theme=dark" alt="TypeScript, C, Java" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,figma&theme=dark" alt="Git, Github, Notion, Figma" />
   </p>
 
 ### 📫 Let's Connect
